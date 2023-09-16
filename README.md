@@ -1,7 +1,7 @@
 # Sprint 1:
 
 ## User Stories:
-### 1. Registering for the XLP Platform
+### [1. Registering for the XLP Platform](https://github.com/orgs/PSU-Loyalty-Exchange-Point-Project/projects/5/views/2)
 
 > As a frequent customer of various brands and businesses, I want to register for a Loyalty Exchange Point platform, so that I can conveniently manage and exchange my loyalty points across different loyalty programs.
 
@@ -26,7 +26,7 @@
 
 ---
 
-### 2. Logging in to the XLP Platform
+### [2. Logging in to the XLP Platform](https://github.com/orgs/PSU-Loyalty-Exchange-Point-Project/projects/6/views/2)
 
 > As a registered user of the XLP (Loyalty Exchange Point) platform, I want to be able to log in to my account securely, So that I can access my profile, manage my loyalty points, and perform transactions within the platform.
 
