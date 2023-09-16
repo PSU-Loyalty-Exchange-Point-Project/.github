@@ -48,7 +48,9 @@
 - There should be a "Log Out" option available within the platform to securely log me out of my account. After logging out, I should not be able to access my account without re-entering my credentials.
 - To ensure security, my session should automatically log out after a period of inactivity. I should receive a warning before the session times out.
 
+![alt text](XLP_login_sequence_diagram.png)
 
+---
 
 ![alt text](XLP_class_diagram.png)
 
