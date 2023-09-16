@@ -8,7 +8,7 @@
 **Acceptance Criteria:**
  
 - When I visit the Loyalty Exchange Point platform's website, I should see a clearly labeled "Register" or "Sign Up" button on the homepage.
--User Information: When I click on the "Register" button, I should be presented with a registration form that includes fields for my:
+- User Information: When I click on the "Register" button, I should be presented with a registration form that includes fields for my:
   - Full Name
   - Email Address
   - Password
