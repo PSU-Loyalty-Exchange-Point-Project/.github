@@ -22,6 +22,8 @@
 - The platform should implement strong security measures to protect my personal information and loyalty program account data. This includes encryption of data and hash password storage.
 - Upon successful registration, I should receive an on-screen confirmation message indicating that my registration is complete and that I can start using the Loyalty Exchange Point platform.
 
+![alt text](XLP_registration_sequence_diagram.png)
+
 ---
 
 ### 2. Logging in to the XLP Platform
@@ -45,6 +47,7 @@
 - After successfully logging in, I should be directed to my user dashboard, where I can access and manage my loyalty points, view transaction history, and utilize the platform's features.
 - There should be a "Log Out" option available within the platform to securely log me out of my account. After logging out, I should not be able to access my account without re-entering my credentials.
 - To ensure security, my session should automatically log out after a period of inactivity. I should receive a warning before the session times out.
+
 
 
 ![alt text](XLP_class_diagram.png)
