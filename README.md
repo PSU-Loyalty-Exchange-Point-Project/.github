@@ -51,7 +51,9 @@
 ![alt text](XLP_login_sequence_diagram.png)
 
 ---
+# Sprint 2:
 
+## User Stories:
 ### [3. Securely Managing Loyalty Tokens](https://github.com/orgs/PSU-Loyalty-Exchange-Point-Project/projects/3/views/1) 
 
 > As an end user, I want to ensure that my loyalty tokens are protected from unauthorized access or theft, so I can have confidence in using the platform to manage my loyalty points.
