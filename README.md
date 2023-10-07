@@ -52,6 +52,21 @@
 
 ---
 
+### [3. Securely Managing Loyalty Tokens](https://github.com/orgs/PSU-Loyalty-Exchange-Point-Project/projects/3/views/1)
+
+> As an end user, I want to ensure that my loyalty tokens are protected from unauthorized access or theft, so I can have confidence in using the platform to manage my loyalty points.
+
+**Acceptance Criteria:**
+ 
+- Users are required to set up two-factor authentication (2FA) during account creation.
+- The platform uses robust encryption methods to secure user accounts and loyalty point transactions.
+- Users can remotely log out from devices and initiate account recovery procedures if they suspect unauthorized access.
+- Ensure security, user session should automatically log out after a period of inactivity. I should receive a warning before the session times out.
+
+![alt text](XLP_login_sequence_diagram.png)
+
+---
+
 ![alt text](XLP_class_diagram.png)
 
 ![alt text](XLP_DB_schema.png)
