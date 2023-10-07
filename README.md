@@ -64,6 +64,7 @@
 - Ensure security, user session should automatically log out after a period of inactivity. I should receive a warning before the session times out.
 
 ![alt text](XLP_securely_managing_loyalty_tokens_class_diagram.png)
+![alt text](XLP_securely_managing_loyalty_tokens_sequence_diagram.png)
 
 ---
 
