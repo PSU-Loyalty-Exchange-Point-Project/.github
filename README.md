@@ -83,7 +83,7 @@
 - The platform provides a detailed transaction history, showing points earned from different retailers and transactions.
 
 ![alt text](XLP_earning_&_Converting_3rd_party_loyalty_points_class_diagram.png)
-![alt text](XLP_securely_managing_loyalty_tokens_sequence_diagram.png)
+![alt text](XLP_4_Sequence.png)
 
 ---
 
