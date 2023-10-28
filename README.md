@@ -69,6 +69,23 @@
 ![alt text](XLP_securely_managing_loyalty_tokens_sequence_diagram.png)
 
 ---
+# Sprint 3:
+
+## User Stories:
+### [4. Earning & Converting 3rd Party Loyalty Points](https://github.com/orgs/PSU-Loyalty-Exchange-Point-Project/projects/1/views/1) 
+
+> As an end user, I want to easily convert and earn loyalty points from 3rd party organizations, so I can see my total points balance and know how close I am to redeeming rewards.
+
+**Acceptance Criteria:**
+ 
+- Users can link their accounts with 3rd party organizations to automatically earn loyalty points.
+- Users can view their total loyalty point balance on the platform.
+- The platform provides a detailed transaction history, showing points earned from different retailers and transactions.
+
+![alt text](XLP_securely_managing_loyalty_tokens_class_diagram.png)
+![alt text](XLP_securely_managing_loyalty_tokens_sequence_diagram.png)
+
+---
 
 ![alt text](XLP_class_diagram.png)
 
