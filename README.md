@@ -86,6 +86,24 @@
 ![alt text](XLP_4_Sequence.png)
 
 ---
+# Sprint 4:
+
+## User Stories:
+### [5. Redeeming & Exchanging Points for Rewards](https://github.com/orgs/PSU-Loyalty-Exchange-Point-Project/projects/2/views/1) 
+
+> As an end user with a substantial loyalty points balance, I want to seamlessly redeem my points for a variety of rewards, including gift cards, discounts, or exclusive products, so I can maximize the value of my points.
+
+**Acceptance Criteria:**
+ 
+- Users can browse a catalog of available rewards and their point redemption values.
+- Users can select and redeem their loyalty points for rewards of their choice.
+- Upon redemption, users receive a digital voucher or code for their selected reward.
+- The platform provides options for sharing or using the reward within participating 3rd party organizations.
+
+![alt text]()
+![alt text]()
+
+---
 
 ![alt text](XLP_class_diagram.png)
 
