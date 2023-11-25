@@ -100,9 +100,9 @@
 - Upon redemption, users receive a digital voucher or code for their selected reward.
 - The platform provides options for sharing or using the reward within participating 3rd party organizations.
 
-![alt text](XLP redeeming points.png)
-![alt text](XLP 5 Part 1.png)
-![alt text](XLP 5 Part 2.png)
+![alt text](XLP_redeeming_points.png)
+![alt text](XLP_5_Part_1.png)
+![alt text](XLP_5_Part_2.png)
 
 ---
 
